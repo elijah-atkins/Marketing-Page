@@ -3,24 +3,24 @@
 Co-make is an app startup looking for some help making their website. They want a new navigation, new header, and new buttons on the home page. They also want a mobile version of their site styled. Use your preprocessing knowledge to accomplish their tasks.
 
 ## Task 1: Set Up The Project With Git
- [x] Create a forked copy of this project.
- [x] Add your team lead as collaborator on Github.
- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
- [x] Create a new branch: git checkout -b <firstName-lastName>.
- [x] Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
- [x] Push commits: git push origin <firstName-lastName>.
+* [x] Create a forked copy of this project.
+* [x] Add your team lead as collaborator on Github.
+* [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+* [x] Create a new branch: git checkout -b <firstName-lastName>.
+* [x] Implement the project on your newly created <firstName-lastName> branch, committing changes regularly.
+* [x] Push commits: git push origin <firstName-lastName>.
 
 ## Task 2: Create index.html and css/index.css
-[x] Create index.html 
-[x] Create css and less folders
+* [x] Create index.html 
+* [x] Create css and less folders
 
 ## Task 3: Set up your preprocessor
- [x] Verify that you have LESS installed correctly by running lessc -v in your terminal, if you don't 
+* [x] Verify that you have LESS installed correctly by running lessc -v in your terminal, if you don't 
  get a version message back, reach out to your team lead for help.
- [ ] Open your terminal and navigate to your preprocessing project by using the cd command
- [ ] Once in your project's root folder, run the following command less-watch-compiler less css index.less
- [ ] Verify your compiler is working correctly by changing the background-color on the html selector to red in your index.less file.
- [ ]Once you see the red screen, you can delete that style and you're ready to start on the next task
+* [ ] Open your terminal and navigate to your preprocessing project by using the cd command
+* [ ] Once in your project's root folder, run the following command less-watch-compiler less css index.less
+* [ ] Verify your compiler is working correctly by changing the background-color on the html selector to red in your index.less file.
+* [ ]Once you see the red screen, you can delete that style and you're ready to start on the next task
 
 ## Task 4: Import LESS Files
 
